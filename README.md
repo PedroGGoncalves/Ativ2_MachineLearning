@@ -20,7 +20,7 @@ Foi desenvolvido uma aplicação para simular um recomendador de filmes, parecid
 
 Nos baseamos em dois tutoriais encontrados, um produzido pela Microsoft utilizando fatoração de matriz, e outro pelo programador Carlos Bonfim, utilizando o TF-IDF.
 
-** ProjFM.ipynb e proj (1).ipynb - Códigos referentes ao desenvolvimento do projeto
+* ProjFM.ipynb e proj (1).ipynb - Códigos referentes ao desenvolvimento do projeto
 ------
 Referências:
 
