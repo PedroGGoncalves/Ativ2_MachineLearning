@@ -12,5 +12,5 @@ Atividades feitas no Jupyter Notebook para avaliação na disciplina Aprendizado
 * DiabeteAnalysis.ipynb, Digits1.ipynb, Wine1.ipynb e breast.ipynb - Códigos desenvolvidos para responder cada um dos conjuntos
 
 ### Atividade 3 
-* Agrupamento-Associacao.docx - - Enunciado sobre a atividade
+* Agrupamento-Associacao.docx - Enunciado sobre a atividade
 * Ex1-Agrupamento-Euclidean.ipynb e Ex2-Associacao.ipynb - Códigos desenvolvidos para responder cada um dos exercícios dessa atividade
