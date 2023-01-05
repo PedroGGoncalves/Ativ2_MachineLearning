@@ -22,7 +22,7 @@ Nos baseamos em dois tutoriais encontrados, um produzido pela Microsoft utilizan
 
 * ProjFM.ipynb e proj (1).ipynb - Códigos referentes ao desenvolvimento do projeto
 ------
-Referências:
+Referências para desenvolvimento do Projeto:
 
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
